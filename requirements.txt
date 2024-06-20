@@ -1,0 +1,5 @@
+paho-mqtt
+counterfit-connection
+counterfit-shims-grove
+counterfit-shims-seeed-python-dht
+uuid
